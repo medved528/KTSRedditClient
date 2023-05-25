@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KTSRedditClient</string>
+    <string name="onboarding_screen_text_view">KTS Reddit client</string>
+    <string name="onboarding_screen_toast">It\`s works!</string>
+    <string name="onboarding_screen_button">CLICK ME!</string>
+    <string name="onboarding_image_text_description">Reddit logo</string>
+</resources>

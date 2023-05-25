@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Реддит клиент</string>
+    <string name="onboarding_screen_text_view">Реддит клиент</string>
+    <string name="onboarding_screen_toast">Это работает</string>
+    <string name="onboarding_screen_button">НАЖМИ МЕНЯ!</string>
+    <string name="onboarding_image_text_description">Логотип реддита</string>
+</resources>
